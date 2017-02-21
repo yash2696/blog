@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/yash2696/yash2696.github.io.git
