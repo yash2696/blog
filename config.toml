@@ -23,9 +23,6 @@ pygmentsStyle = "native"
     name = "Posts"
     url = "/posts"
 [[menu.main]]
-    name = "Quotes"
-    url = "/quotes"
-[[menu.main]]
     name = "About"
-    
+	url = "/about"    
     weight = 100
