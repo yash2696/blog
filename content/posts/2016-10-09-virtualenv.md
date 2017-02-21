@@ -1,5 +1,5 @@
 +++
-title = "Setting up Pyhton Development Environments"
+title = "Setting up Python Development Environments"
 date = "2016-10-09"
 categories = ["python", "development"]
 tags = ["pip","python", "development"]

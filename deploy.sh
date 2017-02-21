@@ -2,6 +2,12 @@
 
 echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
+
+cd public
+shopt -u dotglob
+rm -rf *
+
+cd ..
 # Build the project.
 hugo
 
